@@ -1,0 +1,11 @@
+task_one:
+  description: "Brief of what the task is about, including any specific instructions or constraints"
+  expected_output: "Description of what the output should look like — structure, format, content expectations"
+
+task_two:
+  description: "Brief of what the task is about, including any specific instructions or constraints"
+  expected_output: "Description of what the output should look like — structure, format, content expectations"
+
+task_three:
+  description: "Brief of what the task is about, including any specific instructions or constraints"
+  expected_output: "Description of what the output should look like — structure, format, content expectations"

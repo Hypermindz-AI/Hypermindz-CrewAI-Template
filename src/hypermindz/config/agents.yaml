@@ -1,0 +1,14 @@
+agent_one:
+  role: "Role of the agent"
+  goal: "What the agent is trying to achieve"
+  backstory: "A short background about the agent, including skills, traits, or motivations"
+
+agent_two:
+  role: "Role of the agent"
+  goal: "What the agent is trying to achieve"
+  backstory: "A short background about the agent, including skills, traits, or motivations"
+
+agent_three:
+  role: "Role of the agent"
+  goal: "What the agent is trying to achieve"
+  backstory: "A short background about the agent, including skills, traits, or motivations"
